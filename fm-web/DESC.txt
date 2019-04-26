@@ -1,0 +1,4 @@
+练习：
+Freemarker与servlet进行整合
+先访问 http://localhost:8080/fm-web/list
+再访问 http://localhost:8080/fm-web/employee.ftl
